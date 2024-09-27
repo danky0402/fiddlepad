@@ -1,0 +1,12 @@
+{
+  "ScenarioName": "My Scenario Name",
+  "ModelEffectiveDate": "2023-01-27T00:00:00Z",
+  "ModelStartDate": "2023-01-27T00:00:00Z",
+  "ScenarioCreatedDate": "2023-02-07T11:17:42Z",
+  "EmailResults": true,
+  "Pool": {
+    "Id": "ATL1_42_PROD",
+    "Name": "Name of service pool",
+    "Description": "A long description of pool"
+  }
+}

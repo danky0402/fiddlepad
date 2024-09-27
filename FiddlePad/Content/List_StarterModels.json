@@ -1,0 +1,92 @@
+[
+  {
+    "Code": "D02",
+    "Version": "1.0",
+    "Description": "Add absolute service demand"
+  },
+  {
+    "Code": "S03",
+    "Version": "1.0",
+    "Description": "Create Oracle Db counting rule"
+  },
+  {
+    "Code": "S06",
+    "Version": "1.0",
+    "Description": "Set software fixed duration fee"
+  },
+  {
+    "Code": "S07",
+    "Version": "1.0",
+    "Description": "Set when software cost is posted"
+  },
+  {
+    "Code": "P01",
+    "Version": "1.0",
+    "Description": "Modify server configuration and performance"
+  },
+  {
+    "Code": "P02",
+    "Version": "1.0",
+    "Description": "Modify rack configuration and performance"
+  },
+  {
+    "Code": "S01",
+    "Version": "1.0",
+    "Description": "Create VMware counting rule"
+  },
+  {
+    "Code": "S09",
+    "Version": "1.0",
+    "Description": "Remove software from stack"
+  },
+  {
+    "Code": "C01",
+    "Version": "1.0",
+    "Description": "Add a constraint rule"
+  },
+  {
+    "Code": "S02",
+    "Version": "1.0",
+    "Description": "Create RedHat counting rule"
+  },
+  {
+    "Code": "S04",
+    "Version": "1.0",
+    "Description": "Modify a software price"
+  },
+  {
+    "Code": "S05",
+    "Version": "1.0",
+    "Description": "Create software price schedule"
+  },
+  {
+    "Code": "S08",
+    "Version": "1.0",
+    "Description": "Add software to stack"
+  },
+  {
+    "Code": "D01",
+    "Version": "1.0",
+    "Description": "Modify service demand growth percentage"
+  },
+  {
+    "Code": "D03",
+    "Version": "1.0",
+    "Description": "Add transitory service demand"
+  },
+  {
+    "Code": "P03",
+    "Version": "1.0",
+    "Description": "Increase pool performance rating"
+  },
+  {
+    "Code": "S10",
+    "Version": "1.0",
+    "Description": "Reduce license position"
+  },
+  {
+    "Code": "U01",
+    "Version": "1.0",
+    "Description": "Increase pool utilization"
+  }
+]
